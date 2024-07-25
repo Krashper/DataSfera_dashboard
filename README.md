@@ -6,8 +6,6 @@
 
 ## Визуальная часть Dashboard
 
-![Image](https://github.com/Krashper/DataSfera_dashboard/blob/main/Background_dashboard.png
-
 Визуальная часть дашборда включает следующие элементы:
 
 1. Динамика показателей: Графики, отображающие изменения ключевых показателей за определенный период.
